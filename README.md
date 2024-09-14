@@ -1,6 +1,7 @@
 ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/95698330-17df-4c5e-9d35-4af1522deec5)
-<h1 align="center">Hi 👋, I'm Ekky Dimas</h1>
-<h3 align="center">A CS Student Currently Learning About Ai</h3>
+<h1 align="center">Halo Visitors, Iam Ekky Dimas </h1>
+<h1 align="center">Descriptions : </h1>
+<h3 align="center">Ekky, an Electrical Engineering graduate, excels in electronics and electrical network infrastructure. Currently delving into software engineering, Ekky is equally passionate about public speaking, fostered by his active engagement in university debate clubs.i</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekkydimas&label=Profile%20views&color=0e75b6&style=flat" alt="ekkydimas" /> </p>
 
